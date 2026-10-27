@@ -22,7 +22,7 @@ Built as **Task 4** of my Python Programming Internship at **DecodeLabs** (Batch
 jupyter notebook
 ```
 
-4. Open `quiz.ipynb`.
+4. Open `gk_quiz.ipynb`.
 5. Click the code cell and press **Shift + Enter** to run it.
 6. Type A, B, C or D for each question and press Enter.
 
